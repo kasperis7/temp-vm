@@ -1,3 +1,3 @@
 echo Edit script-linux.sh in your fastmac repo to auto-run commands in your linux instances
 sudo snap install docker
-sudo snap install ffsend
+curl -sL https://git.io/file-transfer | sh 
